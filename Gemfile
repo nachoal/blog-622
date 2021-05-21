@@ -10,7 +10,6 @@ gem 'puma'
 gem 'sass-rails'
 gem 'webpacker'
 gem 'turbolinks'
-gem 'jbuilder'
 gem 'bootsnap'
 
 # Simple forms for rails
